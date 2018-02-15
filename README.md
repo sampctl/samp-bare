@@ -15,3 +15,8 @@ cd samp-bare
 sampctl package build
 sampctl package run
 ```
+
+## Fun Fact
+
+You can package _any_ **gamemode** like this with sampctl, it's not just for
+libraries/includes!
