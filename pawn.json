@@ -1,0 +1,7 @@
+{
+    "user": "sampctl",
+    "repo": "samp-bare",
+    "entry": "bare.pwn",
+    "output": "bare.amx",
+    "dependencies": ["sampctl/samp-stdlib"]
+}
